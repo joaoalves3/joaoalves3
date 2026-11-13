@@ -1,4 +1,4 @@
-# Olá, eu sou o João Pedro 👋
+# Olá, eu sou o João Pedro
 
 Estudante de **Sistemas de Informação na FIAP**, com foco em **dados e Business Intelligence**. Busco estágio em dados ou TI.
 
