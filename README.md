@@ -2,10 +2,10 @@
 
 Estudante de **Sistemas de Informação na FIAP**, com foco em **dados e Business Intelligence**. Busco estágio em dados ou TI.
 
-- 📊 Estudando **Power BI**, **SQL** e **BigQuery**
-- 🗄️ Banco de dados **Oracle** com Java (JDBC, padrão DAO)
-- 🤖 Interesse em **Inteligência Artificial** e chatbots
-- 📍 São Paulo, SP
+- Estudando **Power BI**, **SQL** e **BigQuery**
+- Banco de dados **Oracle** com Java (JDBC, padrão DAO)
+- Interesse em **Inteligência Artificial** e chatbots
+- São Paulo, SP
 
 ## Tecnologias
 
